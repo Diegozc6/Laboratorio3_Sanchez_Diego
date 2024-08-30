@@ -1,3 +1,30 @@
+# Gestión de Productos y Categorías
+
+Esta es una aplicación web desarrollada en ReactJS, TypeScript, y PrimeReact para gestionar productos y categorías. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos y categorías, y está conectada a una API REST.
+
+## Características
+
+- **Gestión de Productos**: Agrega, edita y elimina productos, asignándolos a categorías específicas.
+- **Gestión de Categorías**: Crea, edita y elimina categorías de productos.
+- **Interfaz Intuitiva**: Utiliza PrimeReact para una interfaz de usuario moderna y fácil de usar.
+
+## Requisitos Previos
+
+- Node.js y npm instalados.
+- Una API REST configurada para gestionar productos y categorías.
+
+## Instalación
+
+1. **Clonar el Repositorio**:
+
+   Clona el repositorio del proyecto:
+   ```bash
+   git clone <URL_DE_TU_REPOSITORIO>
+   cd gestion-productos
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
