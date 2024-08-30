@@ -19,7 +19,7 @@ Esta es una aplicación web desarrollada en ReactJS, TypeScript, y PrimeReact pa
 
    Clona el repositorio del proyecto:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone [<URL_DE_TU_REPOSITORIO>](https://github.com/Diegozc6/Laboratorio3_Sanchez_Diego.git)
    cd gestion-productos
 
 
